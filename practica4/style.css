@@ -1,0 +1,17 @@
+h1#titulo1{
+    text-align: center;
+    color: brown;
+}
+p.lacarta{
+    color: brown;
+    
+}
+p.elcafe{
+    color: brown;
+    text-align: center;
+}
+p.elcontacto{
+    color: brown;
+    left: 88%;
+    position: relative;
+}
